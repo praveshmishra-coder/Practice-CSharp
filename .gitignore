@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore build output
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore other temp files
+*.exe
+*.dll
+*.pdb
+*.db
+*.tmp
+*.vsidx
